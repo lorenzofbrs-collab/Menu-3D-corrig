@@ -1,0 +1,31 @@
+{
+  "name": "menu3d-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "@supabase/ssr": "^0.5.0",
+    "next": "^15.0.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "@react-three/fiber": "^8.17.0",
+    "@react-three/drei": "^9.115.0",
+    "three": "^0.175.0",
+    "framer-motion": "^12.0.0",
+    "lucide-react": "^0.400.0",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.7.0"
+  }
+}
